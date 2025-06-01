@@ -1,5 +1,5 @@
 # wildfly-swarn-spring-service
-this project will help you to build service using Wildfly Swarn using  spring
+ project will help you to build service using Wildfly Swarn using  spring
 
  To validate this project you need to run below command on command line
   java -jar demo-swarm.jar
